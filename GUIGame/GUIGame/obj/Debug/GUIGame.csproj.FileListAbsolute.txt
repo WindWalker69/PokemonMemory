@@ -1,0 +1,15 @@
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\bin\Debug\GUIGame.exe.config
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\bin\Debug\GUIGame.exe
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\bin\Debug\GUIGame.pdb
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\obj\Debug\GUIGame.csproj.AssemblyReference.cache
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\obj\Debug\GUIGame.csproj.SuggestedBindingRedirects.cache
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\obj\Debug\GUIGame.Properties.Resources.resources
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\obj\Debug\GUIGame.csproj.GenerateResource.cache
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\obj\Debug\GUIGame.csproj.CoreCompileInputs.cache
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\obj\Debug\GUIGame.exe
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\obj\Debug\GUIGame.pdb
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\obj\Debug\GUIGame.GUIGame.resources
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\obj\Debug\GUIGame.GUIRank.resources
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\obj\Debug\GUIGame.csproj.CopyComplete
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\bin\Debug\Newtonsoft.Json.dll
+D:\Uni Mario\5° anno (2° anno magistrale)\Advanced Programming Languages\Progetto\PokémonMemory\GUIGame\GUIGame\bin\Debug\Newtonsoft.Json.xml
